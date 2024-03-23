@@ -10,3 +10,5 @@ tmp_res
 7-main.sql
 names.sql
 10-init.sql
+11-init.sql
+11-main.sql
