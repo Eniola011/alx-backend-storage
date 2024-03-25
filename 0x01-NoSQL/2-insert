@@ -1,0 +1,7 @@
+// How to insert a document in a db collection in NoSQL
+
+db.school.insert(
+  {
+    name: "Holberton School"
+  }
+)
