@@ -2,6 +2,6 @@
 
 db.school.insert(
   {
-    name: "Holberton School"
+    name: "Holberton school"
   }
 )
