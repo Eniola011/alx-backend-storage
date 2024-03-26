@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+""" Insert a new document in a collection based on kwargs. """
 import pymongo
 
 

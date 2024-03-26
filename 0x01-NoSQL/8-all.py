@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
+""" Lists all documents in a collection """
 import pymongo
 
 
 def list_all(mongo_collection) -> list:
     """
-        Lists all documents in a collection.
         Args:
             mongo_collection: pymongo collection object.
         Return:

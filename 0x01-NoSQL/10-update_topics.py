@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+""" Change all topics of a school document on the name. """
 import pymongo
 
 
