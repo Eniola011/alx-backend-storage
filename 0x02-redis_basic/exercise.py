@@ -30,4 +30,4 @@ class Cache:
         return self._redis.get(key).decode("utf-8")
 
     def get_int(self, key: str) -> int:
-        return self._redis.get(key, fn=int)
+        return self._redis.get(key)
